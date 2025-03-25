@@ -94,4 +94,4 @@ async def send_log_message(embed):
 
 #keep_alive()
 #bot.run(os.getenv("DISCORD_TOKEN"))
-bot.run('MTEyOTcxMTgzNDg3ODk3NjEzMw.GpiaA2.6KUIy6RKVyDXEwyKS0cq2cyjABam3fH4cSc_8E')
+bot.run('YOUR_TOKEN')
